@@ -1,6 +1,6 @@
 import re
 
-PID_MATCH = r"^[0-9]{9}"
+PID_MATCH = r"^[0-9]{9}$"
 HCL_MATCH = r"^#[0-9a-f]{6}"
 HGT_MATCH = r"^([0-9]*)(cm|in)"
 if __name__ == "__main__":
@@ -66,7 +66,6 @@ if __name__ == "__main__":
                     continue
         if good:
             valid_passports = valid_passports + 1
-            print(passport)
     print(valid_passports)
 
 
