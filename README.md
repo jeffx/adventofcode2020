@@ -3,6 +3,7 @@ Staying up until midnight to
 ## Personal Stats
     --------Part 1--------       --------Part 2--------
     Day Time       Rank  Score   Time       Rank  Score
+    5   00:20:51   3783      0   00:30:28   3889      0
     4   00:19:57   3989      0   00:57:37   4019      0
     3   00:33:39   6833      0   00:41:09   6119      0
     2   00:17:53   4024      0   00:27:31   4161      0
@@ -22,3 +23,19 @@ I went with a brute force approach with regexp and if conditions.  In
 hindsight I could have replaced all the if statements with better regexp.
 
 I'm going to want to come back to this one.
+
+## Day 5
+Did a lousy job parsing the puzzle...both parts.  It wasn't until about halfway 
+through my solution that I realized I could do it without all the dumb array 
+stuff I was doing.  There was a simple, math based solution.  But I continued 
+on the path I was on.  
+
+This sentence in part 2:
+> Your seat wasn't at the very front or back, though; the seats with IDs +1 and -1 from yours will be in your list.
+
+Was difficulty for me to parse.  I couldn't understand what it was trying to 
+tell me.  So I just printed the available seats and hoped one would stand out 
+to me.  One did.  The result also illuminated the sentence.
+
+Things I learned in day 5:
+* I don't parse the puzzles well and this leads me to bad solutions
