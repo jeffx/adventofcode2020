@@ -3,6 +3,7 @@ Staying up until midnight to
 ## Personal Stats
     --------Part 1--------       --------Part 2--------
     Day Time       Rank  Score   Time       Rank  Score
+    6   09:10:03  35364      0   09:32:16  33377      0
     5   00:20:51   3783      0   00:30:28   3889      0
     4   00:19:57   3989      0   00:57:37   4019      0
     3   00:33:39   6833      0   00:41:09   6119      0
