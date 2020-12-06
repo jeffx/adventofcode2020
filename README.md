@@ -39,3 +39,13 @@ to me.  One did.  The result also illuminated the sentence.
 
 Things I learned in day 5:
 * I don't parse the puzzles well and this leads me to bad solutions
+
+## Day 6
+It is better to sleep in that obsess about the private leaderboard.  But Day 6 
+fun.  I thought my solution was easy, didn't turn out so easy.  I learned 
+somethings about sets I didn't previously know discard("some value").  
+And I changed my data file reading to match what I saw people doing in 
+day 4, and it really helped me here.
+
+Things I learned in day 6:
+* I don't think as clearly when I have company.
